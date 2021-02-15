@@ -4,7 +4,7 @@ WOWOW Cinema,tvbus://5KYJYbTPp8DCaBDZ7PVn2GmpUzYALYa5wnyMV4SKsPdyL2nUSo2kKBFZ89m
 WOWOW LIVE,tvbus://6edoiaKsdcjLzc5ydL1PWbQVfDV8oo7pvFYLoETEnevgLLWJH7hoRiNFULWhk
 WOWOW Prime,tvbus://6dAkknWhrQ3uh7uZsZpQSPM7qEnsPPJ66a1EDjPEqGgovJf4kqzaShV9iRKzB
 Kanto NHK G,tvbus://5WyAaU8VdjP4CRpLwJ1ujp5KqzkjYcjsyc7zuRQ2cm5oUCFPegBgxBNCGQPVP
-Kanto NHK E,tvbus://6AB1PG7DnCaVEwkjCSTox34NQ7LXe4syqxpdbfxBAPk8An1yXVXaiEDQi3ywQ
+nhk教育,tvbus://6AB1PG7DnCaVEwkjCSTox34NQ7LXe4syqxpdbfxBAPk8An1yXVXaiEDQi3ywQ
 Kanto NTV,tvbus://6AQNjRjcFrR72CU3eRhqJWU9RR3oMCghGdc1nmw8SBZVAi9Y4eBVwnbBWAUM8
 Kanto TBS,tvbus://5Vjywv1fU96MbjXnNrwHzowoayFb3mktLWmJkot3u7iSpBjrViSnq8GoncUtZ
 Kanto ASAHI,tvbus://6fBCXJuiiC8eX12Tx81AYnpHekbnKU9RPwGb1ScqDD45jHjxqyoVT3Gkuukvr
@@ -185,7 +185,7 @@ TNT-HD,tvbus://5M3qwYx2Deuh6W9EtuoEYjRzGt86NtvGJC8g455hvGQzPcdQ13R4p1aZuVNs5
 
 IHome,#genre#
 Kanto NHK G,http://hlstw.ihome.tokyo/live/gd01.stream/playlist.m3u8?wowzasessionid=token
-Kanto NHK E,http://hlstw.ihome.tokyo/live/gd02.stream/playlist.m3u8?wowzasessionid=token	
+Eテレ,http://hlstw.ihome.tokyo/live/gd02.stream/playlist.m3u8?wowzasessionid=token	
 Kanto NTV,http://hlstw.ihome.tokyo/live/gd03.stream/playlist.m3u8?wowzasessionid=token	
 Kanto TBS,http://hlstw.ihome.tokyo/live/gd04.stream/playlist.m3u8?wowzasessionid=token	
 Kanto Fuji TV,http://hlstw.ihome.tokyo/live/gd05.stream/playlist.m3u8?wowzasessionid=token	
